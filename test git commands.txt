@@ -1,7 +1,7 @@
 Hi
 
-
 This is from master code
+
 
 1) This is from clone branch
 2) Clone branch 2 line
